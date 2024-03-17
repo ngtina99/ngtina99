@@ -9,7 +9,7 @@
 
 # 🦋 I'm currently learning 🦋
 
-<img src="https://img.shields.io/badge/C%20programming-000000?style=for-the-badge&logo=C&logoColor=000000&labelColor=2b8afc&color=ffffff"><br>
+<img src="https://img.shields.io/badge/C%20programming-000000?style=for-the-badge&logo=C&logoColor=000000&labelColor=fff85f&color=ffffff"><br>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=000000&labelColor=fff69e&color=9ed6ff"><br>
 <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=MYSQL&logoColor=000000&labelColor=2ab4ad&color=ffbb2d">
 
