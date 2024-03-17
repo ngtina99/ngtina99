@@ -13,5 +13,5 @@
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=000000&labelColor=fff85f&color=9ed6ff"><br>
 <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=MYSQL&logoColor=000000&labelColor=61d2bc&color=ffa765">
 
-# <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="Alt Text" style="width: 100px; height: auto;"> Projects
+# <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="Alt Text" style="width: 70px; height: auto;"> Projects
 
