@@ -1,3 +1,3 @@
-# valami
+# I'm currently learning 😇
 
-[![Python Badge](https://img.shields.io/badge/Python-Guru-blue.svg)](https://www.python.org/)
+![Static Badge](https://img.shields.io/badge/Python-4b8bbe?style=for-the-badge&logo=Python&logoColor=FFFFFF&labelColor=ffde57)
