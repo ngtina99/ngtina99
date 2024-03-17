@@ -2,6 +2,11 @@
 
 <div style="display: flex; justify-content: space-between;">
     <div style="border: 2px solid purple; padding: 10px;">
+        <div style="margin-bottom: -10px; font-family: Arial, sans-serif; font-size: 18px; color: #333; text-transform: uppercase;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" style="width: 50px; height: auto; vertical-align: middle; margin-right: 10px;">
+    I'M TINA, A 42 LISBOA STUDENT FROM HUNGARY.
+</div>
+
         <p>I'm Tina, a 42 Lisboa student from Hungary.</p>
     </div>
     <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Alt Text" style="width: 300px; height: auto;">
