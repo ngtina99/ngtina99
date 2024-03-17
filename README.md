@@ -1,6 +1,6 @@
 # 
 <div style="text-align:center;">
-    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Alt Text" style="max-width: 50%; display: block; margin: auto;">
+    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Alt Text" style="max-width: 30%; display: block; margin: auto;">
 </div>
 
 # 🦋 I'm currently learning 🦋
