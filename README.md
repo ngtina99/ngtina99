@@ -2,8 +2,6 @@
 
 <div style="display: flex; align-items: left;">
             <p>I'm Tina, a 42 Lisboa student from Hungary.</p> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Alt Text" style="width: 300px; height: auto; margin-right: 300px;">
-    <div style="border: 2px solid purple; padding: 10px;">
-    </div>
 </div>
 
 
