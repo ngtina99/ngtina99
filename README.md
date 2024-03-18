@@ -1,10 +1,9 @@
 # Hey there 🫶🏽
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; height: 100vh;">
-    <p style="margin-right: 10px;">I'm Tina, a student from 42 Lisboa.</p>
+    <p style="margin-right: 10px; text-align: center;">I'm Tina, a student from 42 Lisboa.</p>
     <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Alt Text" style="width: 300px; height: auto;">
 </div>
-
         
 # 🦋 I'm currently learning 🦋
 
