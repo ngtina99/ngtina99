@@ -20,4 +20,10 @@
 
 # <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" alt="Alt Text" style="width: 50px; height: auto; vertical-align: middle; margin-bottom: -190px;"> Projects
 <p><a href="https://github.com/ngtina99/python_for_everybody">BEGINNER EXERCISES - freeCodeCamp</a> - Beginner exercises in Python by freeCodeCamp.<br>
+    <a href="https://github.com/ngtina99/python_beginner_ex">BEGINNER EXERCISES - Youtube</a> - Beginner exercises in Python by Youtube tutorials.<br>
 </p>
+
+# <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="Alt Text" style="width: 50px; height: auto; vertical-align: middle; margin-bottom: -190px;"> Projects
+<p><a href="https://github.com/ngtina99/data_and_sql">Data and SQL - Coding Kickstarter</a> - Beginner exercises in SQL by CFG, Code First Girls.<br>
+</p>
+
