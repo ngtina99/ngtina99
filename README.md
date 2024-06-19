@@ -18,3 +18,6 @@
     <a href="https://github.com/ngtina99/get_next_line">GET_NEXT_LINE</a> - The get_next_line function reads from a file descriptor and returns the next line of text<br>
 <a href="https://github.com/ngtina99/libft">LIBFT</a> - Recreation a subset of standard C library functions</p>
 
+# <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Alt Text" style="width: 50px; height: auto; vertical-align: middle; margin-bottom: -190px;"> Projects
+<p><a href="https://github.com/ngtina99/python_for_everybody">FREECODECAMP BEGINNER EXERCISES</a> - This project combines the complexity of complex numbers and computer graphics<br>
+</p>
