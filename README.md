@@ -1,4 +1,4 @@
-# Hey there 🫶🏼
+# Hey there 💖
 
 <div align=center>
     <p style="margin-right: 10px; text-align: center;">A student from 42 Lisboa.</p>
