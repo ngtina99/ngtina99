@@ -6,7 +6,7 @@
 </div>
 
         
-# currently learning 🌸
+# currently learning 🌸🦋
 
 <img src="https://img.shields.io/badge/C%20programming-000000?style=for-the-badge&logo=C&logoColor=000000&labelColor=5f65ff&color=ffffff"> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=000000&labelColor=fff85f&color=9ed6ff"> <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=MYSQL&logoColor=000000&labelColor=61d2bc&color=ffa765">
 
