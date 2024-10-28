@@ -19,6 +19,8 @@
     <a href="https://github.com/ngtina99/get_next_line">GET_NEXT_LINE</a> - The get_next_line function reads from a file descriptor and returns the next line of text<br>
 <a href="https://github.com/ngtina99/libft">LIBFT</a> - Recreation a subset of standard C library functions</p>
 
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="Alt Text" style="width: auto; height: 28px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
+
 # <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" alt="Alt Text" style="width: 50px; height: auto; vertical-align: middle; margin-bottom: -190px;"> Projects
 <p><a href="https://github.com/ngtina99/python_for_everybody">BEGINNER EXERCISES - freeCodeCamp</a> - Beginner exercises in Python by freeCodeCamp.<br>
     <a href="https://github.com/ngtina99/python_beginner_ex">BEGINNER EXERCISES - Youtube</a> - I have collected some basic exercises written in Python, which provide a perfect foundation.<br>
