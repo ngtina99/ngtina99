@@ -11,7 +11,9 @@
 <img src="https://img.shields.io/badge/C%20programming-000000?style=for-the-badge&logo=C&logoColor=000000&labelColor=5f65ff&color=ffffff"> <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=000000&labelColor=5f65ff&color=ffffff"> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=000000&labelColor=fff85f&color=9ed6ff"> <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=MYSQL&logoColor=000000&labelColor=61d2bc&color=ffa765">
 
 # <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8RBBKrUHKq0N0uC3ai9JDPpodZWlnX_QY4g&s" alt="Alt Text" style="width: 50px; height: auto; vertical-align: middle; margin-bottom: -190px;"> Projects
-<p><a href="https://github.com/ngtina99/minishell">MINISHELL</a> - This project is about creating a shell in a team.<br>
+
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=000000&labelColor=5f65ff&color=ffffff" alt="C Badge">
+<p><a href="https://github.com/ngtina99/minishell">MINISHELL</a> - This project involves creating a shell and required teamwork with another student from 42.<br>
     <a href="https://github.com/ngtina99/fract-ol">FRACT-OL</a> - This project combines the complexity of complex numbers and computer graphics<br>
     <a href="https://github.com/ngtina99/minitalk">MINITALK</a> - The goal of "minitalk" is creating a client-server program that communicates using UNIX signals<br>
     <a href="https://github.com/ngtina99/push_swap">PUSH_SWAP</a> - Making this program helps to learn about algorithms, data structures, and optimization techniques<br>
