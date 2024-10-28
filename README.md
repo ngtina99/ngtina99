@@ -12,6 +12,7 @@
 
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
 <p><a href="https://github.com/ngtina99/minishell">MINISHELL</a> - This project involves creating a shell and required teamwork with another student from 42.<br>
+   <a href="https://github.com/ngtina99/philosophers">PHILOSOPHERS</a> - The project implements a multi-threaded solution to the classic dining philosophers problem.<br>
     <a href="https://github.com/ngtina99/fract-ol">FRACT-OL</a> - This project combines the complexity of complex numbers and computer graphics<br>
     <a href="https://github.com/ngtina99/minitalk">MINITALK</a> - The goal of "minitalk" is creating a client-server program that communicates using UNIX signals<br>
     <a href="https://github.com/ngtina99/push_swap">PUSH_SWAP</a> - Making this program helps to learn about algorithms, data structures, and optimization techniques<br>
