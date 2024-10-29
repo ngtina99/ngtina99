@@ -24,7 +24,7 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
 <p><a href="https://github.com/ngtina99/cpp02">CPP02 (IN PROGRESS)</a> - The project requires the use of ad-hoc polymorphism, operator overloading, Orthodox Canonical class form, and vector calculations<br>
     <a href="https://github.com/ngtina99/cpp01">CPP01</a> - This module taught me how to use memory allocation, pointers to members,
-references, switch statement in C++<br>
+references, switch statement<br>
    <a href="https://github.com/ngtina99/cpp00">CPP00</a> - My first exercises in C++ learning: namespaces, classes, member functions, stdio streams, initialization lists, static, const, ands other basic concepts<br>
 
 # <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" alt="Alt Text" style="width: 50px; height: auto; vertical-align: middle; margin-bottom: -190px;"> Projects
