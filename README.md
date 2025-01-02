@@ -3,7 +3,7 @@
 <div align=center>
     <p style="margin-right: 10px; text-align: center;">
 Hi, I'm Tina, a Software Developer student at 42 Lisboa 🧑‍💻 </br>
-        Let's connect—feel free to reach out if you have questions or suggestions about my projects! 😇</p>
+        Let's connect—feel free to reach out if you have any questions or suggestions about my projects! 😇</p>
     <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Alt Text" style="width: 300px; height: auto;">
 </div>
 
