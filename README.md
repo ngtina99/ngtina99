@@ -15,7 +15,7 @@ I'm Tina, a Software Developer student at 42 Lisboa 👩‍💻 </br>
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
 <p>     <a href="https://github.com/ngtina99/webserv">WEBSERV</a> - Collaborated with a team to develop an HTTP server in C++98, handling client requests and core web functionalities<br>
     <a href="https://github.com/ngtina99/cpp08">CPP08</a> - This module covers templated containers, iterators, and standard algorithms <br>
-    <a href="https://github.com/ngtina99/cpp07">CPP07</a> - I discovered C++ templates and applied them to various default functions.<br> 
+    <a href="https://github.com/ngtina99/cpp07">CPP07</a> - I discovered C++ templates and applied them to various default functions <br> 
     <a href="https://github.com/ngtina99/cpp06">CPP06</a> - The project covers C++ casts, including static_cast, dynamic_cast, const_cast, and reinterpret_cast<br>
     <a href="https://github.com/ngtina99/cpp05">CPP05</a> - This module introduces exception handling and explains how to use casting and type conversions<br>
     <a href="https://github.com/ngtina99/cpp04">CPP04</a> - About subtype polymorphism, abstract classes, and interfaces to enhance code flexibility and design<br> 
