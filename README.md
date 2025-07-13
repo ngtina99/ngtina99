@@ -14,7 +14,7 @@ I'm Tina, a Software Developer student at 42 Lisboa 👩‍💻 </br>
 
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
 <p>     <a href="https://github.com/ngtina99/webserv">WEBSERV</a> - Collaborated with a team to develop an HTTP server in C++98, handling client requests and core web functionalities<br>
-    <a href="https://github.com/ngtina99/cpp09">CPP09</a> - This module taught me to apply the C++ Standard Template Library (STL), using containers, iterators, and algorithms for efficient programming <br>
+    <a href="https://github.com/ngtina99/cpp09">CPP09</a> - This module taught me to apply the C++ Standard Template Library (STL), using containers, iterators, and algorithms <br>
     <a href="https://github.com/ngtina99/cpp08">CPP08</a> - The project covers templated containers, iterators, and standard algorithms <br>
     <a href="https://github.com/ngtina99/cpp07">CPP07</a> - I discovered C++ templates and applied them to various default functions <br> 
     <a href="https://github.com/ngtina99/cpp06">CPP06</a> - The project covers C++ casts, including static_cast, dynamic_cast, const_cast, and reinterpret_cast<br>
