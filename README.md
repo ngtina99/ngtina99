@@ -11,51 +11,38 @@ I'm Tina, a Software Developer with some marketing skills 👩‍💻 </br>
 # Tool & Technology Stack 🦋
 
 <a href="https://github.com">
-  <img src="https://img.icons8.com/?size=100&id=118553&format=png&color=000000" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=118553&format=png&color=000000" height="80"/>
 </a>
 <a href="https://www.docker.com/">
-  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" height="80"/>
 </a>
 <a href="https://www.vim.org/">
-  <img src="https://img.icons8.com/?size=100&id=7XSgvKh878Kn&format=png&color=000000" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=7XSgvKh878Kn&format=png&color=000000" height="80"/>
 </a>
 <a href="https://code.visualstudio.com/">
-  <img src="https://img.icons8.com/?size=100&id=iFPHC1KfnoxC&format=png&color=000000" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=iFPHC1KfnoxC&format=png&color=000000" height="80"/>
 </a>
 <a href="https://www.kernel.org/">
-  <img src="https://img.icons8.com/?size=100&id=104289&format=png&color=000000" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=104289&format=png&color=000000" height="80"/>
 </a>
 <a href="https://www.gnu.org/software/bash/">
-  <img src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000" height="80"/>
 </a>
 <a href="https://ads.google.com/">
-  <img src="https://img.icons8.com/?size=100&id=ui4CTPMMDCFh&format=png&color=000000" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=ui4CTPMMDCFh&format=png&color=000000" height="80"/>
 </a>
 <a href="https://www.mysql.com/">
-  <img src="https://img.icons8.com/?size=100&id=ksMs0PlzI1vG&format=png&color=000000" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=ksMs0PlzI1vG&format=png&color=000000" height="80"/>
 </a>
 <a href="https://www.python.org/">
-  <img src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000" height="80"/>
 </a>
 <a href="https://en.cppreference.com/w/c">
-  <img src="https://img.icons8.com/?size=100&id=mfkStOwP4EC0&format=png&color=000000" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=mfkStOwP4EC0&format=png&color=000000" height="80"/>
 </a>
 <a href="https://isocpp.org/">
-  <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" height="75"/>
 </a>
-
-
-[![GitHub](https://img.icons8.com/?size=100&id=118553&format=png&color=000000)](https://github.com)
-[![Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)](https://www.docker.com/)
-[![Vim](https://img.icons8.com/?size=100&id=7XSgvKh878Kn&format=png&color=000000)](https://www.vim.org/)
-[![VSCode](https://img.icons8.com/?size=100&id=iFPHC1KfnoxC&format=png&color=000000)](https://code.visualstudio.com/)
-[![Linux](https://img.icons8.com/?size=100&id=104289&format=png&color=000000)](https://www.kernel.org/)
-[![Bash](https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000)](https://www.gnu.org/software/bash/)
-[![Google Ads](https://img.icons8.com/?size=100&id=ui4CTPMMDCFh&format=png&color=000000)](https://ads.google.com/)
-[![MySQL](https://img.icons8.com/?size=100&id=ksMs0PlzI1vG&format=png&color=000000)](https://www.mysql.com/)
-[![Python](https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000)](https://www.python.org/)
-[![C](https://img.icons8.com/?size=100&id=mfkStOwP4EC0&format=png&color=000000)](https://en.cppreference.com/w/c)
-[![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000)](https://isocpp.org/)
 
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
 <p>     <a href="https://github.com/ngtina99/webserv">WEBSERV</a> - Collaborated with a team to develop an HTTP server in C++, handling client requests and core web functionalities<br>
