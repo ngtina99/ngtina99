@@ -8,7 +8,7 @@ I'm Tina, a Software Developer with some marketing skills 👩‍💻 </br>
 </div>
 
         
-# Tool & Technology Stack 🦋
+# 🦋 Tool & Technology Stack
 
 <a href="https://github.com">
   <img src="https://img.icons8.com/?size=100&id=118553&format=png&color=000000" height="80"/>
