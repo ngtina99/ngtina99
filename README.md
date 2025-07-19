@@ -17,7 +17,7 @@ I'm Tina, a Software Developer with some marketing skills 👩‍💻 </br>
 [![Linux](https://img.icons8.com/?size=100&id=104289&format=png&color=000000)](https://www.kernel.org/)
 [![Bash](https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000)](https://www.gnu.org/software/bash/)
 [![MySQL](https://img.icons8.com/?size=100&id=ksMs0PlzI1vG&format=png&color=000000)](https://www.mysql.com/)
-[![Python]([https://icons8.com/icon/pIJdjOoL6KfU/python](https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000)](https://www.python.org/)
+[![Python](https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000)](https://www.python.org/)
 [![C](https://img.icons8.com/?size=100&id=mfkStOwP4EC0&format=png&color=000000)](https://en.cppreference.com/w/c)
 [![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000)](https://isocpp.org/)
 
