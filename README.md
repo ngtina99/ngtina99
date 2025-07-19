@@ -11,7 +11,7 @@ I'm Tina, a Software Developer with some marketing skills 👩‍💻 </br>
 # Tools & Technology Stack 🦋
 
 [![GitHub](https://simpleicons.org/icons/docker.svg)](https://github.com)
-[![Docker](https://img.shields.io/badge/Docker-%230DB7ED.svg?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)](https://www.docker.com/)
 [![Vim](https://img.shields.io/badge/Vim-%23019D59.svg?logo=vim&logoColor=white)](https://www.vim.org/)
 [![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
