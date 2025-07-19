@@ -9,7 +9,7 @@ Feel free to reach out if you have any questions or suggestions about <a href="h
 
 <p>
   📫 <strong>Let’s connect on <a href="https://www.linkedin.com/in/valentina-nguyen-t/">LinkedIn</a></strong>
-  <a href="https://www.linkedin.com/in/valentina-nguyen-t/" style="vertical-align: middle; margin-left: 6px;">
+  <a href="https://www.linkedin.com/in/valentina-nguyen-t/" style="vertical-align: sub; margin-left: 6px;">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="24" style="vertical-align: sub;"/>
   </a>
 </p>
