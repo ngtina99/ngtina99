@@ -8,7 +8,7 @@ I'm Tina, a Software Developer with some marketing skills 👩‍💻 </br>
 </div>
 
 <a href="https://linkedin/valentina-nguyen-t">
-  <img src="https://img.icons8.com/?size=100&id=118553&format=png&color=000000" height="80"/>
+  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="80"/>
 </a>
         
 # 🦋 Tool & Technology Stack
