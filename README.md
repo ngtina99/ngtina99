@@ -12,9 +12,9 @@ I'm Tina, a Software Developer with some marketing skills 👩‍💻 </br>
 
 [![GitHub](https://img.icons8.com/?size=100&id=118553&format=png&color=000000)](https://github.com)
 [![Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)](https://www.docker.com/)
-[![Vim]()](https://www.vim.org/)
-[![VSCode]()](https://code.visualstudio.com/)
-[![Linux]()](https://www.kernel.org/)
+[![Vim](https://img.icons8.com/?size=100&id=7XSgvKh878Kn&format=png&color=000000)](https://www.vim.org/)
+[![VSCode](https://icons8.com/icon/iFPHC1KfnoxC/visual-studio)](https://code.visualstudio.com/)
+[![Linux](https://img.icons8.com/?size=100&id=104289&format=png&color=000000)](https://www.kernel.org/)
 [![Bash]()](https://www.gnu.org/software/bash/)
 [![MySQL]()](https://www.mysql.com/)
 [![Python](https://icons8.com/icon/pIJdjOoL6KfU/python)](https://www.python.org/)
