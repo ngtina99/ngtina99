@@ -15,11 +15,11 @@ I'm Tina, a Software Developer with some marketing skills 👩‍💻 </br>
 [![Vim](https://img.icons8.com/?size=100&id=7XSgvKh878Kn&format=png&color=000000)](https://www.vim.org/)
 [![VSCode](https://icons8.com/icon/iFPHC1KfnoxC/visual-studio)](https://code.visualstudio.com/)
 [![Linux](https://img.icons8.com/?size=100&id=104289&format=png&color=000000)](https://www.kernel.org/)
-[![Bash]()](https://www.gnu.org/software/bash/)
-[![MySQL]()](https://www.mysql.com/)
-[![Python](https://icons8.com/icon/pIJdjOoL6KfU/python)](https://www.python.org/)
-[![C++]()](https://isocpp.org/)
-[![C]()](https://en.cppreference.com/w/c)
+[![Bash](https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000)](https://www.gnu.org/software/bash/)
+[![MySQL](https://img.icons8.com/?size=100&id=ksMs0PlzI1vG&format=png&color=000000)](https://www.mysql.com/)
+[![Python]([https://icons8.com/icon/pIJdjOoL6KfU/python](https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000)](https://www.python.org/)
+[![C](https://img.icons8.com/?size=100&id=mfkStOwP4EC0&format=png&color=000000)](https://en.cppreference.com/w/c)
+[![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000)](https://isocpp.org/)
 
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
 <p>     <a href="https://github.com/ngtina99/webserv">WEBSERV</a> - Collaborated with a team to develop an HTTP server in C++, handling client requests and core web functionalities<br>
