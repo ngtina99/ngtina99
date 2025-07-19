@@ -11,8 +11,7 @@ Feel free to reach out if you have any questions or suggestions about <a href="h
 <br>
 <a href="https://www.linkedin.com/in/valentina-nguyen-t/">
   <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="40"/>
-</a></br>
-        
+</a></br>   
 # 🦋 Tool & Technology Stack
 
 <a href="https://github.com">
