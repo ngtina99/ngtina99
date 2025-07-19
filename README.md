@@ -48,7 +48,7 @@ Feel free to reach out if you have any questions or suggestions about <a href="h
   <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" height="75"/>
 </a>
 
-# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
 <p>     <a href="https://github.com/ngtina99/webserv">WEBSERV</a> - Collaborated with a team to develop an HTTP server in C++, handling client requests and core web functionalities<br>
     <a href="https://github.com/ngtina99/cpp09">CPP09</a> - This module taught me to apply the C++ Standard Template Library (STL), using containers, iterators, and algorithms <br>
     <a href="https://github.com/ngtina99/cpp08">CPP08</a> - The project covers templated containers, iterators, and standard algorithms <br>
@@ -62,7 +62,7 @@ Feel free to reach out if you have any questions or suggestions about <a href="h
 references, switch statement<br>
    <a href="https://github.com/ngtina99/cpp00">CPP00</a> - My first exercises in C++ learning: namespaces, classes, member functions, stdio streams, initialization lists, static, const, and other basic concepts<br>
 
-# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
 <p> <a href="https://github.com/ngtina99/philosophers">PHILOSOPHERS</a> - The project implements a multi-threaded solution to the classic dining philosophers problem.<br>
     <a href="https://github.com/ngtina99/minishell">MINISHELL</a> - This project involves creating a shell and required teamwork with another student from 42<br>
     <a href="https://github.com/ngtina99/miniRT">miniRT</a> - MiniRT is a ray tracer that simulates light interacting with shapes and materials to create 3D images.<br>
@@ -73,12 +73,12 @@ references, switch statement<br>
     <a href="https://github.com/ngtina99/get_next_line">GET_NEXT_LINE</a> - The get_next_line function reads from a file descriptor and returns the next line of text<br>
 <a href="https://github.com/ngtina99/libft">LIBFT</a> - Recreation a subset of standard C library functions</p>
 
-# <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" alt="Alt Text" style="width: 50px; height: auto; vertical-align: middle; margin-bottom: -190px;"> Projects
+## <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" alt="Alt Text" style="width: 50px; height: auto; vertical-align: middle; margin-bottom: -190px;"> Projects
 <p><a href="https://github.com/ngtina99/python_for_everybody">freeCodeCamp exercises</a> - Beginner exercises in Python by freeCodeCamp.<br>
     <a href="https://github.com/ngtina99/python_beginner_ex">BEGINNER EXERCISES</a> - I have collected some basic exercises written in Python, which provide a perfect foundation.<br>
 </p>
 
-# <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="Alt Text" style="width: 50px; height: auto; vertical-align: middle; margin-bottom: -190px;"> Projects
+## <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="Alt Text" style="width: 50px; height: auto; vertical-align: middle; margin-bottom: -190px;"> Projects
 <p><a href="https://github.com/ngtina99/data_and_sql">Data and SQL - Coding Kickstarter</a> - Beginner exercises in SQL by CFG, Code First Girls.<br>
 </p>
 
