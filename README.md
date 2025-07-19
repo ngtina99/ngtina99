@@ -10,7 +10,7 @@ I'm Tina, a Software Developer with some marketing skills 👩‍💻 </br>
         
 # Tools & Technology Stack 🦋
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://simpleicons.org/icons/docker.svg)](https://github.com)
 [![Docker](https://img.shields.io/badge/Docker-%230DB7ED.svg?logo=docker&logoColor=white)](https://www.docker.com/)
 [![Vim](https://img.shields.io/badge/Vim-%23019D59.svg?logo=vim&logoColor=white)](https://www.vim.org/)
 [![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
