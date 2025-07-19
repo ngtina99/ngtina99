@@ -13,7 +13,7 @@ I'm Tina, a Software Developer student at 42 Lisboa 👩‍💻 </br>
 <img src="https://img.shields.io/badge/C%20programming-000000?style=for-the-badge&logo=C&logoColor=000000&labelColor=5f65ff&color=ffffff"> <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=000000&labelColor=5f65ff&color=ffffff"> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=000000&labelColor=fff85f&color=9ed6ff"> <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=MYSQL&logoColor=000000&labelColor=61d2bc&color=ffa765">
 
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
-<p>     <a href="https://github.com/ngtina99/webserv">WEBSERV</a> - Collaborated with a team to develop an HTTP server in C++98, handling client requests and core web functionalities<br>
+<p>     <a href="https://github.com/ngtina99/webserv">WEBSERV</a> - Collaborated with a team to develop an HTTP server in C++, handling client requests and core web functionalities<br>
     <a href="https://github.com/ngtina99/cpp09">CPP09</a> - This module taught me to apply the C++ Standard Template Library (STL), using containers, iterators, and algorithms <br>
     <a href="https://github.com/ngtina99/cpp08">CPP08</a> - The project covers templated containers, iterators, and standard algorithms <br>
     <a href="https://github.com/ngtina99/cpp07">CPP07</a> - I discovered C++ templates and applied them to various default functions <br> 
