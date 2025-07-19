@@ -3,12 +3,13 @@
 <div align=center>
     <p style="margin-right: 10px; text-align: center;">
 I'm Tina, a Software Developer with some marketing skills 👩‍💻 </br>
+Feel free to reach out if you have any questions or suggestions about <a href="https://github.com/ngtina99?tab=repositories">my projects</a>! 😇</p>    
     <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Alt Text" style="width: 300px; height: auto;">
 </div>
 
 <a href="https://linkedin/valentina-nguyen-t">
   <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="80"/>
-</a>Feel free to reach out if you have any questions or suggestions about <a href="https://github.com/ngtina99?tab=repositories">my projects</a>! 😇</p>
+</a>
         
 # 🦋 Tool & Technology Stack
 
