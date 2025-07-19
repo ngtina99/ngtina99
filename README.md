@@ -20,7 +20,7 @@ I'm Tina, a Software Developer with some marketing skills 👩‍💻 </br>
   <img src="https://img.icons8.com/?size=100&id=7XSgvKh878Kn&format=png&color=000000" height="80"/>
 </a>
 <a href="https://code.visualstudio.com/">
-  <img src="https://img.icons8.com/?size=100&id=iFPHC1KfnoxC&format=png&color=000000" height="80"/>
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" height="80"/>
 </a>
 <a href="https://www.kernel.org/">
   <img src="https://img.icons8.com/?size=100&id=104289&format=png&color=000000" height="80"/>
