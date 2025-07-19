@@ -8,9 +8,13 @@ I'm Tina, a Software Developer with some marketing skills 👩‍💻 </br>
 </div>
 
         
-# currently learning 🦋
+# Tools & Technology Stack 🦋
 
-<img src="https://img.shields.io/badge/C%20programming-000000?style=for-the-badge&logo=C&logoColor=000000&labelColor=5f65ff&color=ffffff"> <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=000000&labelColor=5f65ff&color=ffffff"> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=000000&labelColor=fff85f&color=9ed6ff"> <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=MYSQL&logoColor=000000&labelColor=61d2bc&color=ffa765">
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com)
+[![Docker](https://img.shields.io/badge/Docker-%230DB7ED.svg?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Vim](https://img.shields.io/badge/Vim-%23019D59.svg?logo=vim&logoColor=white)](https://www.vim.org/)
+[![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
 
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
 <p>     <a href="https://github.com/ngtina99/webserv">WEBSERV</a> - Collaborated with a team to develop an HTTP server in C++, handling client requests and core web functionalities<br>
