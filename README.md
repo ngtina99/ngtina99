@@ -8,13 +8,18 @@ I'm Tina, a Software Developer with some marketing skills 👩‍💻 </br>
 </div>
 
         
-# Tools & Technology Stack 🦋
+# Tool & Technology Stack 🦋
 
-[![GitHub](https://simpleicons.org/icons/docker.svg)](https://github.com)
+[![GitHub]((https://img.icons8.com/?size=100&id=118553&format=png&color=000000))](https://github.com)
 [![Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)](https://www.docker.com/)
-[![Vim](https://img.shields.io/badge/Vim-%23019D59.svg?logo=vim&logoColor=white)](https://www.vim.org/)
-[![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
+[![Vim]()](https://www.vim.org/)
+[![VSCode]()](https://code.visualstudio.com/)
+[![Linux]()](https://www.kernel.org/)
+[![Bash]()](https://www.gnu.org/software/bash/)
+[![MySQL]()](https://www.mysql.com/)
+[![Python](https://icons8.com/icon/pIJdjOoL6KfU/python)](https://www.python.org/)
+[![C++]()](https://isocpp.org/)
+[![C]()](https://en.cppreference.com/w/c)
 
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
 <p>     <a href="https://github.com/ngtina99/webserv">WEBSERV</a> - Collaborated with a team to develop an HTTP server in C++, handling client requests and core web functionalities<br>
