@@ -44,7 +44,7 @@ Feel free to reach out if you have any questions or suggestions about <a href="h
   <img src="https://img.icons8.com/?size=100&id=mfkStOwP4EC0&format=png&color=000000" height="70"/>
 </a>
 <a href="https://isocpp.org/">
-  <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" height="55"/>
+  <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" height="63"/>
 </a>
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
