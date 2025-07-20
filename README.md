@@ -14,34 +14,34 @@ Feel free to reach out if you have any questions or suggestions about <a href="h
 ## Tool & Technology Stack
 
 <a href="https://github.com">
-  <img src="https://img.icons8.com/?size=100&id=118553&format=png&color=000000" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=118553&format=png&color=000000" height="70"/>
 </a>
 <a href="https://www.docker.com/">
-  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" height="70"/>
 </a>
 <a href="https://www.vim.org/">
-  <img src="https://img.icons8.com/?size=100&id=7XSgvKh878Kn&format=png&color=000000" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=7XSgvKh878Kn&format=png&color=000000" height="70"/>
 </a>
 <a href="https://code.visualstudio.com/">
-  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" height="70"/>
 </a>
 <a href="https://www.kernel.org/">
-  <img src="https://img.icons8.com/?size=100&id=104289&format=png&color=000000" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=104289&format=png&color=000000" height="70"/>
 </a>
 <a href="https://www.gnu.org/software/bash/">
-  <img src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000" height="70"/>
 </a>
 <a href="https://ads.google.com/">
-  <img src="https://img.icons8.com/?size=100&id=ui4CTPMMDCFh&format=png&color=000000" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=ui4CTPMMDCFh&format=png&color=000000" height="70"/>
 </a>
 <a href="https://www.mysql.com/">
-  <img src="https://img.icons8.com/?size=100&id=ksMs0PlzI1vG&format=png&color=000000" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=ksMs0PlzI1vG&format=png&color=000000" height="70"/>
 </a>
 <a href="https://www.python.org/">
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="70"/>
 </a>
 <a href="https://en.cppreference.com/w/c">
-  <img src="https://img.icons8.com/?size=100&id=mfkStOwP4EC0&format=png&color=000000" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=mfkStOwP4EC0&format=png&color=000000" height="70"/>
 </a>
 <a href="https://isocpp.org/">
   <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" height="55"/>
