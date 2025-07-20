@@ -8,7 +8,7 @@ Feel free to reach out if you have any questions or suggestions about <a href="h
 </div>
 
 <a href="https://www.linkedin.com/in/valentina-nguyen-t/">
-  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="90"/>
 </a> Let’s connect on <strong><a href="https://www.linkedin.com/in/valentina-nguyen-t/">LinkedIn</a></strong>!
 
 ## Tool & Technology Stack
