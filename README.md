@@ -4,7 +4,7 @@
     <p style="margin-right: 10px; text-align: center;">
 I'm Tina, a Software Developer with some marketing skills. 👩‍💻 </br>
 Feel free to reach out if you have any questions or suggestions about <a href="https://github.com/ngtina99?tab=repositories">my projects</a>. 😇</p>    
-    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Alt Text" style="width: 300px; height: auto;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWo1YXdnOHhpZ3QwNWw0aWExaG1ibmJsNWdhZjZlbHVqNGNsZmw3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Alt Text" style="width: 300px; height: auto;">
 </div>
 
 <a href="https://www.linkedin.com/in/valentina-nguyen-t/">
