@@ -29,7 +29,7 @@ Feel free to reach out if you have any questions or suggestions about <a href="h
   <img src="https://img.icons8.com/?size=100&id=104289&format=png&color=000000" height="70"/>
 </a>
 <a href="https://www.gnu.org/software/bash/">
-  <img src="https://simpleicons.org/icons/gnubash.svg" height="70"/>
+  <img src="https://simpleicons.org/?modal=icon&q=gnubash" height="70"/>
 </a>
 <a href="https://ads.google.com/">
   <img src="https://img.icons8.com/?size=100&id=ui4CTPMMDCFh&format=png&color=000000" height="70"/>
