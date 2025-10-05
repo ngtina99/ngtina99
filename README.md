@@ -66,7 +66,7 @@
 <a href="https://github.com/ngtina99/libft">LIBFT</a> - Recreation a subset of standard C library functions</p>
 
 ## <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" alt="Alt Text" style="width: 50px; height: auto; vertical-align: middle; margin-bottom: -190px;"> Projects
-<p><a href="https://github.com/ngtina99/python_for_everybody">freeCodeCamp exercises</a> - Beginner exercises in Python by freeCodeCamp.<br>
+<p>
     <a href="https://github.com/ngtina99/python_beginner_ex">BEGINNER EXERCISES</a> - I have collected some basic exercises written in Python, which provide a perfect foundation.<br>
 </p>
 
