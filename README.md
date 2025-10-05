@@ -26,25 +26,25 @@ Feel free to reach out if you have any questions or suggestions about <a href="h
     <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="70"/>
 </a>
 <a href="https://www.kernel.org/">
-  <img src="https://img.icons8.com/?size=100&id=104289&format=png&color=000000" height="70"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="70"/>
 </a>
 <a href="https://www.gnu.org/software/bash/">
   <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white" height="70"/>
 </a>
 <a href="https://ads.google.com/">
-  <img src="https://img.icons8.com/?size=100&id=ui4CTPMMDCFh&format=png&color=000000" height="70"/>
+    <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" height="70"/>
 </a>
 <a href="https://www.mysql.com/">
-  <img src="https://img.icons8.com/?size=100&id=ksMs0PlzI1vG&format=png&color=000000" height="70"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="70"/>
 </a>
 <a href="https://www.python.org/">
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="70"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="70"/>
 </a>
 <a href="https://en.cppreference.com/w/c">
-  <img src="https://img.icons8.com/?size=100&id=mfkStOwP4EC0&format=png&color=000000" height="70"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="70"/>
 </a>
 <a href="https://isocpp.org/">
-  <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" height="65"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="70"/>
 </a>
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
