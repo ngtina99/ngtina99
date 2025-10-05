@@ -19,9 +19,6 @@
 
 ## Tool & Technology Stack
 
-<a href="https://github.com">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="70"/>
-</a>
 <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="70"/>
 </a>
@@ -37,17 +34,17 @@
 <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="70"/>
 </a>
-<a href="https://www.vim.org/">
-    <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" height="70"/>
-</a>
-<a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="70"/>
-</a>
 <a href="https://www.kernel.org/">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="70"/>
 </a>
 <a href="https://www.gnu.org/software/bash/">
   <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white" height="70"/>
+</a>
+<a href="https://www.vim.org/">
+    <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" height="70"/>
+</a>
+<a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="70"/>
 </a>
 <a href="https://ads.google.com/">
     <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" height="70"/>
