@@ -10,15 +10,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWo1YXdnOHhpZ3QwNWw0aWExaG1ibmJsNWdhZjZlbHVqNGNsZmw3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Alt Text" style="width: 300px; height: auto;">
 </div>
 
-<a href="https://www.linkedin.com/in/valentina-nguyen-t/">
-  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="40"/>
-</a>
-Let’s connect on 
-<strong>
-  <a href="https://www.linkedin.com/in/valentina-nguyen-t/" style="color: #6A0DAD; text-decoration: underline;">
-    LinkedIn
+<p align="center">
+  <a href="https://www.linkedin.com/in/valentina-nguyen-t/">
+    <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</strong>!
+</p>!
 
 ## Tool & Technology Stack
 
