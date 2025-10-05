@@ -17,13 +17,13 @@ Feel free to reach out if you have any questions or suggestions about <a href="h
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="70"/>
 </a>
 <a href="https://www.docker.com/">
-  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" height="70"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="70"/>
 </a>
 <a href="https://www.vim.org/">
-  <img src="https://img.icons8.com/?size=100&id=7XSgvKh878Kn&format=png&color=000000" height="70"/>
+    <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" height="70"/>
 </a>
 <a href="https://code.visualstudio.com/">
-  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" height="70"/>
+    <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="70"/>
 </a>
 <a href="https://www.kernel.org/">
   <img src="https://img.icons8.com/?size=100&id=104289&format=png&color=000000" height="70"/>
