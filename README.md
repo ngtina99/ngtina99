@@ -14,7 +14,7 @@ Feel free to reach out if you have any questions or suggestions about <a href="h
 ## Tool & Technology Stack
 
 <a href="https://github.com">
-  <img src="https://pics.freeicons.io/uploads/icons/png/969021121530099614-512.png" height="70"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="70"/>
 </a>
 <a href="https://www.docker.com/">
   <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" height="70"/>
