@@ -5,16 +5,17 @@
     I'm Tina, a Software Developer with some marketing skills. 👩‍💻 </br>
     Feel free to reach out if you have any questions or suggestions about 
     <a href="https://github.com/ngtina99?tab=repositories">my projects</a>. 😇
+    Let's connect!
   </p>    
-
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWo1YXdnOHhpZ3QwNWw0aWExaG1ibmJsNWdhZjZlbHVqNGNsZmw3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Alt Text" style="width: 300px; height: auto;">
-</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/valentina-nguyen-t/">
     <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>!
+</p>
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWo1YXdnOHhpZ3QwNWw0aWExaG1ibmJsNWdhZjZlbHVqNGNsZmw3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Alt Text" style="width: 300px; height: auto;">
+</div>
 
 ## Tool & Technology Stack
 
