@@ -5,7 +5,7 @@
     I'm Tina, a Software Developer with some marketing skills. 👩‍💻 </br>
     Feel free to reach out if you have any questions or suggestions about 
     <a href="https://github.com/ngtina99?tab=repositories">my projects</a> and
-    let's connect!
+    let's connect:
   </p>    
 
 <p align="center">
