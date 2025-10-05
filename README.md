@@ -1,15 +1,24 @@
 # Hey there 👋
 
-<div align=center>
-    <p style="margin-right: 10px; text-align: center;">
-I'm Tina, a Software Developer with some marketing skills. 👩‍💻 </br>
-Feel free to reach out if you have any questions or suggestions about <a href="https://github.com/ngtina99?tab=repositories">my projects</a>. 😇</p>    
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWo1YXdnOHhpZ3QwNWw0aWExaG1ibmJsNWdhZjZlbHVqNGNsZmw3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Alt Text" style="width: 300px; height: auto;">
+<div align="center">
+  <p style="margin-right: 10px; text-align: center;">
+    I'm Tina, a Software Developer with some marketing skills. 👩‍💻 </br>
+    Feel free to reach out if you have any questions or suggestions about 
+    <a href="https://github.com/ngtina99?tab=repositories">my projects</a>. 😇
+  </p>    
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWo1YXdnOHhpZ3QwNWw0aWExaG1ibmJsNWdhZjZlbHVqNGNsZmw3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Alt Text" style="width: 300px; height: auto;">
 </div>
 
 <a href="https://www.linkedin.com/in/valentina-nguyen-t/">
   <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="40"/>
-</a> Let’s connect on <strong><a href="https://www.linkedin.com/in/valentina-nguyen-t/">LinkedIn</a></strong>!
+</a>
+Let’s connect on 
+<strong>
+  <a href="https://www.linkedin.com/in/valentina-nguyen-t/" style="color: #6A0DAD; text-decoration: underline;">
+    LinkedIn
+  </a>
+</strong>!
 
 ## Tool & Technology Stack
 
@@ -31,9 +40,6 @@ Feel free to reach out if you have any questions or suggestions about <a href="h
 <a href="https://www.gnu.org/software/bash/">
   <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white" height="70"/>
 </a>
-<a href="https://ads.google.com/">
-    <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" height="70"/>
-</a>
 <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="70"/>
 </a>
@@ -45,6 +51,9 @@ Feel free to reach out if you have any questions or suggestions about <a href="h
 </a>
 <a href="https://isocpp.org/">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="70"/>
+</a>
+<a href="https://ads.google.com/">
+    <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" height="70"/>
 </a>
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
