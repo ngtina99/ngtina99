@@ -56,7 +56,7 @@
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/9414/9414296.png" alt="Web Dev Icon" style="width: auto; height: 30px; vertical-align: middle; margin-bottom: -34px;"><span style="font-size: 30px;">  Web Development Projects</span>
 <p>
-    <a href="https://github.com/ngtina99/ft_transcendence">FT_TRANSCENDENCE</a> – A full-stack online Pong platform with microservices, tounament matchmaking system, AI opponent, dashboard, ELK, WAF and websocket service.  
+    <a href="https://github.com/ngtina99/ft_transcendence">FT_TRANSCENDENCE</a> – A full-stack website with microservices, tounament matchmaking system, AI opponent, dashboard, ELK, WAF and websocket service.  
 </p>
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
