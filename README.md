@@ -12,7 +12,6 @@
  <a href="https://www.linkedin.com/in/valentina-nguyen-t/"> <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
 </p>
 
-
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWo1YXdnOHhpZ3QwNWw0aWExaG1ibmJsNWdhZjZlbHVqNGNsZmw3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Alt Text" style="width: 300px; height: auto;">
 </div>
 
