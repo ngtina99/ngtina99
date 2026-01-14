@@ -6,7 +6,7 @@
     Feel free to reach out if you have any questions or suggestions about 
     <a href="https://github.com/ngtina99?tab=repositories">my projects</a> and
     let's connect:
-  </p>    
+  </p>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/valentina-nguyen-t/"> <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
@@ -60,8 +60,9 @@
 </p>
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
-<p>     <a href="https://github.com/ngtina99/webserv">WEBSERV</a> - Collaborated with a team to develop an HTTP server in C++, handling client requests and core web functionalities<br>
-    <a href="https://github.com/ngtina99/cpp_modules">CPP MODULES</a> - A consolidated workspace for my solutions to the 42 School C++ modules<br>
+<p> 
+<a href="https://github.com/ngtina99/webserv">WEBSERV</a> - Collaborated with a team to develop an HTTP server in C++, handling client requests and core web functionalities<br>
+<a href="https://github.com/ngtina99/cpp_modules">CPP MODULES</a> - A consolidated workspace for my solutions to the 42 School C++ modules<br>
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
 <p> <a href="https://github.com/ngtina99/philosophers">PHILOSOPHERS</a> - The project implements a multi-threaded solution to the classic dining philosophers problem<br>
