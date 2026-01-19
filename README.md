@@ -73,7 +73,7 @@
     <a href="https://github.com/ngtina99/push_swap">PUSH_SWAP</a> - Making this program helps to learn about algorithms, data structures, and optimization techniques<br>
     <a href="https://github.com/ngtina99/ft_printf">FT_PRINTF</a> - A project that aims to mimic the behavior of the standard "printf" function<br>
     <a href="https://github.com/ngtina99/get_next_line">GET_NEXT_LINE</a> - The get_next_line function reads from a file descriptor and returns the next line of text<br>
-<a href="https://github.com/ngtina99/libft">LIBFT</a> - Recreation a subset of standard C library functions</p>
+    <a href="https://github.com/ngtina99/libft">LIBFT</a> - Recreation a subset of standard C library functions</p>
 
 ## <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" alt="Alt Text" style="width: 50px; height: auto; vertical-align: middle; margin-bottom: -190px;"> Projects
 <p>
