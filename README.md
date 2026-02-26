@@ -64,7 +64,7 @@
 <a href="https://github.com/ngtina99/webserv">WEBSERV</a> - Collaborated with a team to develop an HTTP server in C++, handling client requests and core web functionalities<br>
 <a href="https://github.com/ngtina99/cpp_modules">CPP MODULES</a> - A consolidated workspace for my solutions to the 42 School C++ modules<br>
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
+## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
 <p> <a href="https://github.com/ngtina99/philosophers">PHILOSOPHERS</a> - The project implements a multi-threaded solution to the classic dining philosophers problem<br>
     <a href="https://github.com/ngtina99/minishell">MINISHELL</a> - This project involves creating a shell and required teamwork with another student from 42<br>
     <a href="https://github.com/ngtina99/miniRT">miniRT</a> - MiniRT is a ray tracer that simulates light interacting with shapes and materials to create 3D images<br>
