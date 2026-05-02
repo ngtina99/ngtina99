@@ -60,7 +60,7 @@
     <a href="https://github.com/ngtina99/ft_transcendence">PONG GAME</a> – A full-stack website with microservices, tournament matchmaking system, AI opponent, dashboard, ELK, WAF and websocket service. 
 </p>
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/960px-ISO_C%2B%2B_Logo.svg.png" alt="Alt Text" style="width: auto; height: 30px; vertical-align: middlet; margin-bottom: -34px;"><span style="font-size: 30px;">  Projects</span>
 <p> 
 <a href="https://github.com/ngtina99/webserv">WEBSERV</a> - Collaborated with a team to develop an HTTP server in C++, handling client requests and core web functionalities<br>
 <a href="https://github.com/ngtina99/cpp_modules">CPP MODULES</a> - A consolidated workspace for my solutions to the 42 School C++ modules<br>
