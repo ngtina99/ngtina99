@@ -8,6 +8,7 @@
     let's connect:
   </p>
 
+
 <p align="center">
  <a href="https://www.linkedin.com/in/valentina-nguyen-t/"> <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
 </p>
