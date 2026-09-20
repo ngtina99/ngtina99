@@ -65,33 +65,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="70"/>
 </a>
 
-<a href="https://www.microsoft.com/sql-server">
-    <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="70"/>
-</a>
-
-<a href="https://www.servicenow.com/">
-    <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" height="70"/>
-</a>
-
-<a href="https://www.sap.com/products/erp/s4hana.html">
-    <img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="70"/>
-</a>
-
-<a href="https://restfulapi.net/">
-    <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=swagger&logoColor=white" height="70"/>
-</a>
-
-<a href="https://www.abbyy.com/vantage/">
-    <img src="https://img.shields.io/badge/ABBYY%20Vantage%20Cloud-E2231A?style=for-the-badge&logoColor=white" height="70"/>
-</a>
-
-<a href="https://www.d-velop.com/">
-    <img src="https://img.shields.io/badge/d.3%20ECM-0066CC?style=for-the-badge&logoColor=white" height="70"/>
-</a>
-
-<a href="https://www.sap.com/">
-    <img src="https://img.shields.io/badge/SAP%20DRC-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="70"/>
-</a>
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/9414/9414296.png" alt="Web Dev Icon" style="width: auto; height: 30px; vertical-align: middle; margin-bottom: -34px;"><span style="font-size: 30px;">  Full-Stack Development Projects</span>
 <p>
