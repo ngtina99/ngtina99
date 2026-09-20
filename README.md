@@ -54,8 +54,9 @@
     <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" height="70"/>
 </a>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/9414/9414296.png" alt="Web Dev Icon" style="width: auto; height: 30px; vertical-align: middle; margin-bottom: -34px;"><span style="font-size: 30px;">  Web Development Projects</span>
+## <img src="https://cdn-icons-png.flaticon.com/512/9414/9414296.png" alt="Web Dev Icon" style="width: auto; height: 30px; vertical-align: middle; margin-bottom: -34px;"><span style="font-size: 30px;">  Full-Stack Development Projects</span>
 <p>
+    <a href="https://github.com/ngtina99/enterprise-invoice-platform">Enterprise Invoice Platform</a> – Enterprise invoice management with approval workflows, REST APIs, SQL Server and SAP integration.<br>
     <a href="https://github.com/ngtina99/ledwebsite">LAMP WEBSHOP</a> – Full-stack web app with React, TypeScript, Tailwind, and Node.js + Prisma backend.<br>
     <a href="https://github.com/ngtina99/ft_transcendence">PONG GAME</a> – A full-stack website with microservices, tournament matchmaking system, AI opponent, dashboard, ELK, WAF and websocket service. 
 </p>
