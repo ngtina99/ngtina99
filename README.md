@@ -26,6 +26,13 @@
 <a href="https://isocpp.org/">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="70"/>
 </a>
+<a href="https://dotnet.microsoft.com/">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="70"/>
+</a>
+
+<a href="https://www.java.com/">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="70"/>
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="70"/>
 </a>
@@ -50,21 +57,6 @@
 <a href="https://ads.google.com/">
     <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" height="70"/>
 </a>
-
-<!-- Enterprise Technologies & Development -->
-
-<a href="https://dotnet.microsoft.com/">
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="70"/>
-</a>
-
-<a href="https://www.java.com/">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="70"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="70"/>
-</a>
-
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/9414/9414296.png" alt="Web Dev Icon" style="width: auto; height: 30px; vertical-align: middle; margin-bottom: -34px;"><span style="font-size: 30px;">  Full-Stack Development Projects</span>
 <p>
