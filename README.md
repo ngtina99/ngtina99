@@ -2,7 +2,7 @@
 
 <div align="center">
   <p style="margin-right: 10px; text-align: center;">
-    I'm Tina, a Software Developer with some marketing skills. 👩‍💻 </br>
+    I'm Tina, a Web Developer with some marketing skills. 👩‍💻 </br>
     Feel free to reach out if you have any questions or suggestions about 
     <a href="https://github.com/ngtina99?tab=repositories">my projects</a> and
     let's connect:
@@ -47,11 +47,62 @@
 <a href="https://www.vim.org/">
     <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" height="70"/>
 </a>
-<a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="70"/>
-</a>
 <a href="https://ads.google.com/">
     <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" height="70"/>
+</a>
+
+<!-- Enterprise Technologies & Development -->
+
+<a href="https://www.atlassian.com/software/confluence">
+    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" height="70"/>
+</a>
+
+<a href="https://www.leanix.net/">
+    <img src="https://img.shields.io/badge/LeanIX-0B5CAD?style=for-the-badge&logo=sap&logoColor=white" height="70"/>
+</a>
+
+<a href="https://www.microsoft.com/microsoft-365">
+    <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" height="70"/>
+</a>
+
+<a href="https://dotnet.microsoft.com/">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="70"/>
+</a>
+
+<a href="https://www.java.com/">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="70"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="70"/>
+</a>
+
+<a href="https://www.microsoft.com/sql-server">
+    <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="70"/>
+</a>
+
+<a href="https://www.servicenow.com/">
+    <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" height="70"/>
+</a>
+
+<a href="https://www.sap.com/products/erp/s4hana.html">
+    <img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="70"/>
+</a>
+
+<a href="https://restfulapi.net/">
+    <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=swagger&logoColor=white" height="70"/>
+</a>
+
+<a href="https://www.abbyy.com/vantage/">
+    <img src="https://img.shields.io/badge/ABBYY%20Vantage%20Cloud-E2231A?style=for-the-badge&logoColor=white" height="70"/>
+</a>
+
+<a href="https://www.d-velop.com/">
+    <img src="https://img.shields.io/badge/d.3%20ECM-0066CC?style=for-the-badge&logoColor=white" height="70"/>
+</a>
+
+<a href="https://www.sap.com/">
+    <img src="https://img.shields.io/badge/SAP%20DRC-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="70"/>
 </a>
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/9414/9414296.png" alt="Web Dev Icon" style="width: auto; height: 30px; vertical-align: middle; margin-bottom: -34px;"><span style="font-size: 30px;">  Full-Stack Development Projects</span>
