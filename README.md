@@ -53,18 +53,6 @@
 
 <!-- Enterprise Technologies & Development -->
 
-<a href="https://www.atlassian.com/software/confluence">
-    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" height="70"/>
-</a>
-
-<a href="https://www.leanix.net/">
-    <img src="https://img.shields.io/badge/LeanIX-0B5CAD?style=for-the-badge&logo=sap&logoColor=white" height="70"/>
-</a>
-
-<a href="https://www.microsoft.com/microsoft-365">
-    <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" height="70"/>
-</a>
-
 <a href="https://dotnet.microsoft.com/">
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="70"/>
 </a>
